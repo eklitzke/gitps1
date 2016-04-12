@@ -1,0 +1,5 @@
+Makefile
+build-aux
+config.h
+*.m4
+gitps
